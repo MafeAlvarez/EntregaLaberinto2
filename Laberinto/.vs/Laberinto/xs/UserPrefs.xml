@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D85800E4-F724-5EF0-1A74-09D162D1DC27}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bala.cs">
+    <Files>
+      <File FileName="Assets/ControlCharacter.cs" Line="43" Column="1" />
+      <File FileName="Assets/Bala.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="901e1da7-94fc-4d15-b6b0-786766fc62bd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
